@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(247, 147, 163);
+}
+
+#poem_h1{
+    color: rgb(109, 194, 165);
+}
+
+#line1{
+    font-size: 3rem;
+    color: white;
+    text-align: left;
+    margin-left: 350px;
+}
+
+#interlude{
+    font-size: 1.9rem;
+}
+
+
+#video-line{
+    padding-top: 100px;
+    font-size: 1.5rem;
+    color: rgb(19, 21, 22);
+}
+
+#ending{
+    margin-top: 250px;
+    color: rgb(37, 25, 27);
+    font-size: 1.5rem;
+}
+
+b{
+    color: rgb(209, 4, 4);
+}
+
+#confess_btns{
+    padding: 20px;
+    display: flexbox;
+    flex-direction: row;
+    border: none;
+    border-radius: 200px;   
+    font-size: 2rem;
+    text-align: center;
+    color: rgb(206, 198, 212);
+    background-color: rgb(24, 2, 10);
+}
+
+#confess_btns:hover{
+    background-color: rgb(97, 10, 42);
+    cursor: pointer;
+}
+
+#end{
+    font-size: 1.5rem;
+}
